@@ -2,6 +2,9 @@
 
 A **Python-based Personal Expense Tracker** that helps you record, manage, and analyze your daily spending habits efficiently.  
 It provides insights into your financial patterns with clear analytics and visualizations.
+A simple command-line based Personal Expense Tracker built with Python.  
+It allows users to add, view, and analyze expenses efficiently.
+
 
 ---
 
@@ -64,6 +67,7 @@ personal-expense-tracker/
 
 
 📊 Example Output
+![Example Output](assets/example.png)
 
 When you run the project, you’ll see:
 Welcome to Personal Expense Tracker
