@@ -46,17 +46,20 @@ personal-expense-tracker/
    ```
 
 2. Navigate into the project directory
-   ```cd personal-expense-tracker
+   ```bash
+   cd personal-expense-tracker
    ```
 
 
 3. Install dependencies
-   ```Run the application
+   ```bash
+   Run the application
    ```
 
      
 4. Run the application
-   ``` pip install -r requirements.txt
+   ```bash
+    pip install -r requirements.txt
    ```
 
 
