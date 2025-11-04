@@ -67,7 +67,8 @@ personal-expense-tracker/
 
 
 📊 Example Output
-![Example Output](assets/example.png)
+https://github.com/bhoyarapurva23399/personal-expense-tracker/blob/main/example.png?raw=true
+
 
 When you run the project, you’ll see:
 Welcome to Personal Expense Tracker
